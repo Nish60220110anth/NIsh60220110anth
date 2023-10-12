@@ -90,6 +90,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nish60220110anth/Nish60220110anth/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Nish60220110anth/Nish60220110anth/output/snake.svg" alt="Snake animation" /> -->
 
 ###
